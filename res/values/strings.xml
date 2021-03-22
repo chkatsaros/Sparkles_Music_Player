@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sparkles</string>
+    <string name="song_note">note</string>
+    <string name="pause">PAUSE</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+    <string name="stop">STOP</string>
+    <string name="togglepause">TOGGLEPAUSE</string>
+</resources>
